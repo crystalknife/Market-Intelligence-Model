@@ -1,0 +1,6 @@
+Flask
+requests
+textblob
+pandas
+numpy
+prophet
